@@ -1,5 +1,7 @@
 package com.journaldev.java.dependencyinjection.test;
-
+// Java program to count number of ways
+// to express x as sum of n-th power
+// of unique natural numbers.
 public class CountSumPowers {
 
     // num is current num.
